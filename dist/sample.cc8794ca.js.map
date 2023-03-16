@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/sample/sample.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAG,CAAC,MAAM,CAAC","file":"sample.cc8794ca.js","sourceRoot":"..","sourcesContent":["console.log(\"bbbb\");\n"]}
